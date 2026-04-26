@@ -1,3 +1,21 @@
+# 🚀 CI/CD Pipeline Implementation
+
+This project demonstrates CI/CD using:
+
+## 🔧 Jenkins Pipeline
+- Build: Install dependencies
+- Test: Run pytest
+- Deploy: Staging deployment
+
+## ⚙️ GitHub Actions
+- Install dependencies
+- Run tests
+- Build application
+- Deploy to staging (staging branch)
+- Deploy to production (tags)
+
+------------------------------------------------------------------------------------------------------------------------
+
 # Student Registration System
 
 A simple **Flask** web application to manage student records with **MongoDB** as the backend database. Users can **add, view, update, and delete** student details.
